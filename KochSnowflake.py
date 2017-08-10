@@ -1,4 +1,4 @@
-#Author: Gloria Ngan
+#Author: Alex
 
 from turtle import *
 
