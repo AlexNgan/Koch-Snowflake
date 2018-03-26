@@ -1,4 +1,4 @@
-#Author: Alex
+#Author: Mortyyy
 
 from turtle import *
 
